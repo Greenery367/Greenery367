@@ -11,7 +11,7 @@
 <br/>
 
 ## ⌨️ **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,discord,eclipse,gradle,java, MySQL ,spring,github,vscode,postman)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,discord,eclipse,gradle,java,spring,github,vscode,postman)](#)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greenery367&layout=compact)
 
