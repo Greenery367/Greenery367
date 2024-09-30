@@ -1,4 +1,4 @@
-# 😎꾸준히 발전하는 개발자, 엄송현입니다.  
+# 🫡꾸준히 발전하는 개발자, 엄송현입니다.  
 
 A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 - Open to project collaborations
