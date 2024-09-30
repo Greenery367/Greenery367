@@ -11,8 +11,8 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [팩맨 : Java Swing으로 구현한 멀티 스레딩 게임] (https://github.com/LOSTANA/Pacwhat)
- 2. [네이트톡 : 소켓 통신 채팅 프로그램] (https://github.com/Greenery367/makeChat)
+ 1. [팩맨 : Java Swing으로 구현한 멀티 스레딩 게임]([https://github.com/LOSTANA/Pacwhat])
+ 2. [네이트톡 : 소켓 통신 채팅 프로그램]([https://github.com/Greenery367/makeChat])
  3. [포켓 옥션: JDBC와 HikariCP로 구현한 포켓몬 카드 경매 프로그램](https://github.com/junsoo186/card_auction_project))
  4. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
  5. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
