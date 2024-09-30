@@ -1,4 +1,4 @@
-# 꾸준히 발전하는 개발자, 엄송현입니다.  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# 😎꾸준히 발전하는 개발자, 엄송현입니다.  
 
 A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 - Open to project collaborations
