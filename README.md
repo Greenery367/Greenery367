@@ -18,6 +18,7 @@
 | ---- | ----- |
 | BackEnd | Java, MySQL, JPA, SpringBoot, JDBC, HikariCP |
 | FrontEnd | Html, CSS, JavaScript |
+| Co-work | Discord, Jira, Slack, Notion |
 
 <br/>
 
