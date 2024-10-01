@@ -14,8 +14,10 @@
 
 ## ⌨️ **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,discord,eclipse,gradle,java,spring,github,vscode,postman)](#)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greenery367&layout=compact)
+| 분야 | 상세 |
+| ---- | ----- |
+| BackEnd | Java, MySQL, JPA, SpringBoot, JDBC, HikariCP |
+| FrontEnd | Html, CSS, JavaScript |
 
 <br/>
 
