@@ -7,7 +7,8 @@
 
 ## 📬Address
 * 블로그 : <a href="https://whatsthatsound.tistory.com/" title="Blog"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
-* 이메일 : <a href="mailto:greenery3699@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/%EC%86%A1%ED%98%84-%EC%97%84-ba715132b/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+* 이메일 : <a href="mailto:greenery3699@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+* 링크드인 : <a href="https://www.linkedin.com/in/%EC%86%A1%ED%98%84-%EC%97%84-ba715132b/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 <br/>
 <br/>
 
