@@ -13,6 +13,15 @@
 <br/>
 
 
+## ⌨️ **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,discord,eclipse,gradle,java,spring,github,vscode,postman)](#)
+| 분야 | 상세 |
+| ---- | ----- |
+| BackEnd | Java, MySQL, JPA, SpringBoot, JDBC, HikariCP |
+| FrontEnd | Html, CSS, JavaScript |
+| Co-work | Discord, Jira, Slack, Notion, Git Bash, GitHub |
+<br/>
+
 
 ## 🗂️ My Recent Projects 
 | 프로젝트 명 | 기술 스택 | 깃허브 링크 |
@@ -21,15 +30,6 @@
 | 셸위 : 게임 친구 매칭 사이트 | Springboot, JSP, MyBatis, MySQL | https://github.com/junsoo186/card_auction_project|
 | 다모아 : 1인 개발자-기업간 양방향 채용 플랫폼 | Springboot, Mustach, MyBatis, MySQL | https://github.com/HyeonProG/Damoa|
 
-<br/>
-
-## ⌨️ **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,discord,eclipse,gradle,java,spring,github,vscode,postman)](#)
-| 분야 | 상세 |
-| ---- | ----- |
-| BackEnd | Java, MySQL, JPA, SpringBoot, JDBC, HikariCP |
-| FrontEnd | Html, CSS, JavaScript |
-| Co-work | Discord, Jira, Slack, Notion, Git Bash, GitHub |
 
 
 <br/>
