@@ -23,6 +23,9 @@
 <br/>
 
 ## 🗂️ My Recent Projects 
+| 프로젝트 명 | 기술 스택 | 깃허브 링크 |
+| ---- | ----- | ---- |
+| 포켓 옥션 : JDBC와 HikariCP로 구현한 포켓몬 카드 경매 프로그램 | Java, JDBC, HikariCP | (https://github.com/junsoo186/card_auction_project)|
 
  1. [포켓 옥션: JDBC와 HikariCP로 구현한 포켓몬 카드 경매 프로그램](https://github.com/junsoo186/card_auction_project)
  2. [셸위: 스프링부트 기반 게임 친구 매칭 사이트](https://github.com/Greenery367/shallwe_project)
