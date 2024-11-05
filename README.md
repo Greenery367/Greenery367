@@ -25,8 +25,8 @@
 ## 🗂️ My Recent Projects 
 | 프로젝트 명 | 기술 스택 | 깃허브 링크 |
 | ---- | ----- | ---- |
-| 포켓 옥션 : JDBC와 HikariCP로 구현한 포켓몬 카드 경매 프로그램 | Java, JDBC, HikariCP | https://github.com/junsoo186/card_auction_project|
-| 셸위 : 스프링부트 기반 게임 친구 매칭 사이트 | Springboot, JSP, MyBatis, MySQL | https://github.com/junsoo186/card_auction_project|
+| 포켓 옥션 :  포켓몬 카드 경매 프로그램 | Java, JDBC, HikariCP | https://github.com/junsoo186/card_auction_project|
+| 셸위 : 게임 친구 매칭 사이트 | Springboot, JSP, MyBatis, MySQL | https://github.com/junsoo186/card_auction_project|
 | 다모아 : 1인 개발자-기업간 양방향 채용 플랫폼 | Springboot, Mustach, MyBatis, MySQL | https://github.com/HyeonProG/Damoa|
 
 
