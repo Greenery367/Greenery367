@@ -29,7 +29,7 @@
 | ---- | ----- | ---- |
 | 포켓 옥션 :  포켓몬 카드 경매 프로그램 | [![My Skills](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev) | https://github.com/junsoo186/card_auction_project|
 | 셸위 : 게임 친구 매칭 사이트 |  ![](https://img.shields.io/badge/Springboot-007396?style=flat&logo=mysql&logoColor=white")
-![](https://img.shields.io/badge/Springboot-007396?style=flat&logo=springboot&logoColor=#6DB33F")
+![](https://img.shields.io/badge/mysql-007396?style=flat&logo=mysql&logoColor=#6DB33F")
 | https://github.com/junsoo186/card_auction_project|
 | 다모아 : 1인 개발자-기업간 양방향 채용 플랫폼 |  [![My Skills](https://skillicons.dev/icons?i=spring,mysql&perline=3)](https://skillicons.dev) | https://github.com/HyeonProG/Damoa|
 
