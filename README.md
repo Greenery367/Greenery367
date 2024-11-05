@@ -21,6 +21,7 @@
 | FrontEnd | Html, CSS, JavaScript |
 | Co-work | Discord, Jira, Slack, Notion, Git Bash, GitHub |
 <br/>
+<br/>
 
 
 ## 🗂️ My Recent Projects 
