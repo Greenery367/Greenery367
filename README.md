@@ -30,6 +30,7 @@
 | 포켓 옥션 :  포켓몬 카드 경매 프로그램 | [![My Skills](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev) | https://github.com/junsoo186/card_auction_project|
 | 셸위 : 게임 친구 매칭 사이트 |  [![My Skills](https://skillicons.dev/icons?i=spring,mysql,html,css,js&perline=3)](https://skillicons.dev) | (https://github.com/Greenery367/shallwe_project)|
 | 다모아 : 1인 개발자-기업간 양방향 채용 플랫폼 |  [![My Skills](https://skillicons.dev/icons?i=spring,mysql,html,css,js&perline=3)](https://skillicons.dev) | https://github.com/HyeonProG/Damoa|
+| 이지 부산 : 부산 이주 컨설팅 사이트 |  [![My Skills](https://skillicons.dev/icons?i=spring,html,css,js&perline=3)](https://skillicons.dev) | https://github.com/HyeonProG/Damoa|
 
 
 
