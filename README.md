@@ -1,6 +1,6 @@
 # 🫡꾸준히 발전하는 개발자, 엄송현입니다.  
 
-#### JAVA  백엔드 개발자 엄송현입니다. 
+####JAVA  백엔드 개발자 엄송현입니다. 
 #### 꾸준히 성장하여 사회에 기여하는 개발자가 되고 싶습니다.
 
 <br/>
@@ -14,10 +14,10 @@
 
 
 ## ⌨️ **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,discord,eclipse,gradle,java,spring,github,vscode,postman)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,discord,gradle,python,java,spring,github,vscode,postman)](#)
 | 분야 | 상세 |
 | ---- | ----- |
-| BackEnd | Java, MySQL, JPA, SpringBoot, JDBC, HikariCP |
+| BackEnd | Python, Java, MySQL, JPA, SpringBoot, JDBC, HikariCP |
 | FrontEnd | Html, CSS, JavaScript |
 | Co-work | Discord, Jira, Slack, Notion, Git Bash, GitHub |
 <br/>
