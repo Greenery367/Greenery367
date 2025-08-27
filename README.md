@@ -1,4 +1,4 @@
-# 🫡Backend Programmer, Eom Songhyun  
+# Backend Programmer, Eom Songhyun  
 
 
 <br/>
