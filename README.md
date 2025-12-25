@@ -7,20 +7,11 @@
 ## ⌨️ **Languages and Tools:**  
 | 분야 | 상세 |
 | ---- | ----- |
-| BackEnd | Python, Java, MySQL, JPA, SpringBoot, JDBC, HikariCP |
-| FrontEnd | Html, CSS, JavaScript |
-| Co-work | Discord, Jira, Slack, Notion, Git Bash, GitHub |
+| BackEnd | Python, Java, JPA, SpringBoot, JDBC, HikariCP |
+| DB | MySQL, SQLite, PostgreSQL |
+| DevOps | Docker, Railway |
 <br/>
 <br/>
-
-
-## 🗂️ My Recent Projects
-- 포켓 옥션 :  포켓몬 카드 경매 프로그램  https://github.com/junsoo186/card_auction_project
-- 셸위 : 게임 친구 매칭 사이트 https://github.com/Greenery367/shallwe_project
-- 다모아 : 1인 개발자-기업간 양방향 채용 플랫폼 https://github.com/HyeonProG/Damoa
-- 이지 부산 : 부산 이주 컨설팅 사이트 https://github.com/Greenery367/easy-busan
-
-
 
 <br/>
 <p align="center">
